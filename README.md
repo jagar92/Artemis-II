@@ -45,7 +45,7 @@
 
 # 
 
-# !\[Trajectory](figures/art_animation.gif)
+# ![Artemis II Animation](figures/art_animation.gif)
 
 # 
 
