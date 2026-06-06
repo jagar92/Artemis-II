@@ -19,7 +19,7 @@ The project includes:
 
 ![Velocity vs Position](figures/velocity_position.png)
 
-### Animation (GIF)
+### Animation of Artemis II's Trajectory (GIF)
 
 ![Trajectory](figures/art_animation.gif)
 
