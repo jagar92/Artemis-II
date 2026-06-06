@@ -1,58 +1,28 @@
-# \# Artemis II Trajectory Visualization
+# Artemis II Trajectory Visualization
 
-# 
+## Overview
 
-# \## Overview
+This project visualizes the trajectory of NASA's Artemis II mission using Python.
 
-# 
+The project includes:
 
-# This project visualizes the trajectory of NASA's Artemis II mission using Python.
+- Trajectory visualization  
+- Animated spacecraft motion  
+- Velocity–position analysis  
+- Scientific data visualization  
 
-# 
+---
 
-# The project includes:
+## Example Results
 
-# 
+### Velocity vs Position
 
-# \- Trajectory visualization
+![Velocity vs Position](figures/velocity_position.png)
 
-# \- Animated spacecraft motion
+### Animation (GIF)
 
-# \- Velocity-position analysis
+![Trajectory](figures/art_animation.gif)
 
-# \- Scientific data visualization
+### MP4 Version
 
-# 
-
-# \---
-
-# 
-
-# \## Example Results
-
-# 
-
-# \### Velocity vs Position
-
-# 
-
-# ![Velocity vs Position](figures/velocity_position.png)
-
-
-# 
-
-# \### Animation
-
-# 
-
-# ![Artemis II Animation](figures/art_animation.gif)
-
-# 
-
-# \### MP4 Version
-
-# 
-
-#![Download MP4](figures/art_animation.mp4)
-
-
+[Download MP4 Animation](figures/art_animation.mp4)
