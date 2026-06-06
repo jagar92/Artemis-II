@@ -46,5 +46,5 @@ The project includes:
 
 
 
-!\[Animation](figures/art\_animation.mp4)
+!\[Animation](figures/art\_animation.gif)
 
