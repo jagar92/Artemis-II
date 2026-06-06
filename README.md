@@ -36,7 +36,8 @@
 
 # 
 
-# !\[Velocity Position](figures/velocity\_position.png)
+# ![Velocity vs Position](figures/velocity_position.png)
+
 
 # 
 
@@ -44,7 +45,7 @@
 
 # 
 
-# !\[Animation](figures/art\_animation.gif)
+# !\[Trajectory](figures/art_animation.gif)
 
 # 
 
@@ -52,5 +53,5 @@
 
 # 
 
-# \[Download MP4 Animation](figures/art\_animation.mp4)
+# \[Download MP4 Animation](figures/art_animation.mp4)
 
