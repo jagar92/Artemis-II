@@ -1,38 +1,50 @@
 # Artemis II
 
-\# Artemis II Earth-Moon Trajectory Visualization
+\# Artemis II Trajectory Visualization
 
 
 
-This project models and visualizes the Artemis II mission trajectory.
+\## Overview
 
 
 
-Features:
-
-\- Animated spacecraft trajectory
-
-\- Velocity vs position analysis
-
-\- Earth-centered coordinate visualization
+This project visualizes the trajectory of NASA's Artemis II mission using Python.
 
 
 
-Tools:
-
-\- Python
-
-\- NumPy
-
-\- SciPy
-
-\- Matplotlib
+The project includes:
 
 
 
-Example Output:
+\- Trajectory visualization
+
+\- Animated spacecraft motion
+
+\- Velocity-position analysis
+
+\- Scientific data visualization
 
 
 
-\[insert gif]
+\---
+
+
+
+\## Example Results
+
+
+
+\### Velocity vs Position
+
+
+
+!\[Velocity Position](figures/velocity\_position.png)
+
+
+
+\### Animation
+
+
+
+!\[Animation](figures/art\_animation.mp4)
 
