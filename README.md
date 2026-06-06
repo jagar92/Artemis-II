@@ -53,5 +53,6 @@
 
 # 
 
-# \[Download MP4 Animation](figures/art_animation.mp4)
+#![Download MP4](figures/art_animation.mp4)
+
 
